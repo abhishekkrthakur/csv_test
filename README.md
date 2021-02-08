@@ -1,4 +1,4 @@
-# A simple task to read and coallate CSVs
+# A simple task to read and collate CSVs
 
 Language to be used: python
 
